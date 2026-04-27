@@ -1,5 +1,3 @@
-Calculator:
-
 % Arithmetic Logic
 calculate(add, A, B, R) :- R is A + B.
 calculate(sub, A, B, R) :- R is A - B.
